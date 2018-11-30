@@ -6,6 +6,13 @@ edit model.py for train or test
 
 python model.py
 
+data_format:  
+
+label message  
+
+0 not  
+1 spam  
+
 reference:  
 Attenion is all you need  
 https://github.com/tensorflow/models.git  
