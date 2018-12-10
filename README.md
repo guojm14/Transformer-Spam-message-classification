@@ -19,6 +19,8 @@ https://github.com/tensorflow/models.git
 https://github.com/Embedding/Chinese-Word-Vectors.git  
 
 accuracy：99%+
+recall：99%+
+precision：98%+
 
 UCAS Web Data Mining homework
 
