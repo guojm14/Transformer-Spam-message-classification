@@ -1,0 +1,2 @@
+model_checkpoint_path: "transform.ckpt-197000"
+all_model_checkpoint_paths: "transform.ckpt-197000"
